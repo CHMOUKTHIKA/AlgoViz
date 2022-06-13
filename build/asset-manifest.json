@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/AlgoViz/static/css/main.7a616b39.chunk.css",
+    "main.js": "/AlgoViz/static/js/main.d6dd2e2a.chunk.js",
+    "main.js.map": "/AlgoViz/static/js/main.d6dd2e2a.chunk.js.map",
+    "runtime-main.js": "/AlgoViz/static/js/runtime-main.da1b8748.js",
+    "runtime-main.js.map": "/AlgoViz/static/js/runtime-main.da1b8748.js.map",
+    "static/css/2.497780c3.chunk.css": "/AlgoViz/static/css/2.497780c3.chunk.css",
+    "static/js/2.1c900748.chunk.js": "/AlgoViz/static/js/2.1c900748.chunk.js",
+    "static/js/2.1c900748.chunk.js.map": "/AlgoViz/static/js/2.1c900748.chunk.js.map",
+    "static/js/3.9a1c4c14.chunk.js": "/AlgoViz/static/js/3.9a1c4c14.chunk.js",
+    "static/js/3.9a1c4c14.chunk.js.map": "/AlgoViz/static/js/3.9a1c4c14.chunk.js.map",
+    "index.html": "/AlgoViz/index.html",
+    "static/css/2.497780c3.chunk.css.map": "/AlgoViz/static/css/2.497780c3.chunk.css.map",
+    "static/css/main.7a616b39.chunk.css.map": "/AlgoViz/static/css/main.7a616b39.chunk.css.map",
+    "static/js/2.1c900748.chunk.js.LICENSE.txt": "/AlgoViz/static/js/2.1c900748.chunk.js.LICENSE.txt",
+    "static/media/Recursion.74bc404c.jpg": "/AlgoViz/static/media/Recursion.74bc404c.jpg",
+    "static/media/binaryTree.3861da9c.jpg": "/AlgoViz/static/media/binaryTree.3861da9c.jpg",
+    "static/media/graph.8f8b53ae.jpg": "/AlgoViz/static/media/graph.8f8b53ae.jpg",
+    "static/media/primes.59966538.png": "/AlgoViz/static/media/primes.59966538.png",
+    "static/media/index.css": "/AlgoViz/static/media/roboto-vietnamese-400-normal.52cebac0.woff2",
+    "static/media/sort.4e3a1709.jpeg": "/AlgoViz/static/media/sort.4e3a1709.jpeg",
+    "static/media/sorting.ac907d10.jpeg": "/AlgoViz/static/media/sorting.ac907d10.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.da1b8748.js",
+    "static/css/2.497780c3.chunk.css",
+    "static/js/2.1c900748.chunk.js",
+    "static/css/main.7a616b39.chunk.css",
+    "static/js/main.d6dd2e2a.chunk.js"
+  ]
+}
